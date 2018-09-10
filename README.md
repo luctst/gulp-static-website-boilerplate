@@ -2,6 +2,7 @@
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 [![GitHub stars](https://img.shields.io/github/stars/luctst/static-gulp-boilerplate.svg)](https://github.com/luctst/static-gulp-boilerplate/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/luctst/static-gulp-boilerplate.svg)](https://github.com/luctst/static-gulp-boilerplate/issues)
+[![GitHub forks](https://img.shields.io/github/forks/luctst/static-gulp-boilerplate.svg)](https://github.com/luctst/static-gulp-boilerplate/network)
 
 *A quick setup build with gulp to rapidly create website.*
 
