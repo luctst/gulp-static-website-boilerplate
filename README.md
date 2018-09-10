@@ -1,4 +1,6 @@
 # static-gulp-boilerplate
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+
 *A quick setup build with gulp to rapidly create website.*
 
 ## Features
