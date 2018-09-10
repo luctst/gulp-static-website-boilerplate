@@ -1,6 +1,7 @@
 # static-gulp-boilerplate
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 [![GitHub stars](https://img.shields.io/github/stars/luctst/static-gulp-boilerplate.svg)](https://github.com/luctst/static-gulp-boilerplate/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/luctst/static-gulp-boilerplate.svg)](https://github.com/luctst/static-gulp-boilerplate/issues)
 
 *A quick setup build with gulp to rapidly create website.*
 
